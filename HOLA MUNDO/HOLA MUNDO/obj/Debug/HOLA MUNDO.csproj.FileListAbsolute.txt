@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.exe.config
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.exe
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.pdb
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.exe
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.pdb

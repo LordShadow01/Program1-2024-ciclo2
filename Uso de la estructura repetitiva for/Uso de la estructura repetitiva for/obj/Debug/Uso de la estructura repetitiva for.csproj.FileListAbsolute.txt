@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\obj\Debug\Uso de la estructura repetitiva for.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\obj\Debug\Uso de la estructura repetitiva for.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\bin\Debug\Uso de la estructura repetitiva for.exe.config
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\bin\Debug\Uso de la estructura repetitiva for.exe
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\bin\Debug\Uso de la estructura repetitiva for.pdb
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\obj\Debug\Uso de la estructura repetitiva for.exe
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso de la estructura repetitiva for\Uso de la estructura repetitiva for\obj\Debug\Uso de la estructura repetitiva for.pdb

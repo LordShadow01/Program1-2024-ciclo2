@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso del switch\Uso del switch\bin\Debug\Uso del switch.exe.config
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso del switch\Uso del switch\bin\Debug\Uso del switch.exe
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso del switch\Uso del switch\bin\Debug\Uso del switch.pdb
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso del switch\Uso del switch\obj\Debug\Uso del switch.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso del switch\Uso del switch\obj\Debug\Uso del switch.exe
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso del switch\Uso del switch\obj\Debug\Uso del switch.pdb
+C:\Users\destr\OneDrive\Escritorio\PROGRAMACIÓN CICLO 2 ROSALES\Uso del switch\Uso del switch\obj\Debug\Uso del switch.csproj.AssemblyReference.cache
